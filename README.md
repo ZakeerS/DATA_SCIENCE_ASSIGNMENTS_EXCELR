@@ -29,3 +29,5 @@
 ### [Association Rules - Movies Dataset](https://gist.github.com/ZakeerS/4a5a2e516e5a133b3eb7ce1c6346ce93)
 
 ### [Recommendation System - Books Dataset](https://gist.github.com/ZakeerS/667744afd06439145be30c7a0c544e3d)
+
+### [Text Mining Sentiment Analysis on Elon Musk Tweets](https://gist.github.com/ZakeerS/389046f9bd9ad638a1b51f04a13b7301)
