@@ -44,4 +44,8 @@
 
 ### [Decision Trees - Fraud Dataset](https://gist.github.com/ZakeerS/653f7ab6631c91df5d9bde607a9eb827)
 
-### [Random Forest - Company Dataset](https://colab.research.google.com/drive/1MjjPmigJnB6ANXnPTsIdTAzlQMbFQatT?usp=sharing)
+### [Random Forest - Company Dataset](https://colab.research.google.com/drive/16OH7OfoXzCOE5bPDZQsakSO441u-QNUb?usp=sharing)
+
+### [Random Forest - Fraud Dataset](https://colab.research.google.com/drive/11is49W5p_9K1ntCXFQmEzAp7TmfBCsYN?usp=sharing)
+
+### [Neural Networks - Forest Fires & Gas Turbines Dataset](https://gist.github.com/ZakeerS/606d31555a437896c4f888c1971f3a72)
