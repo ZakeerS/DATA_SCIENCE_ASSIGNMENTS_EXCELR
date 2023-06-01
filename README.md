@@ -49,3 +49,7 @@
 ### [Random Forest - Fraud Dataset](https://colab.research.google.com/drive/11is49W5p_9K1ntCXFQmEzAp7TmfBCsYN?usp=sharing)
 
 ### [Neural Networks - Forest Fires & Gas Turbines Dataset](https://gist.github.com/ZakeerS/606d31555a437896c4f888c1971f3a72)
+
+### [Support Vector Machine - Forest Fires Dataset](https://gist.github.com/ZakeerS/405ae92848fcf3b1bb6ec0f6d8685f9b)
+
+### [Support Vector Machine - Salary Dataset](https://gist.github.com/ZakeerS/fc7ec3493d94c381a2c745b61a8cd692)
