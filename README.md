@@ -23,3 +23,5 @@
 ### [Clustering - Airlines Dataset](https://gist.github.com/ZakeerS/d01b0d68dc26d757f33fcddd3efb4b11)
 
 ### [PCA - Wine Dataset](https://gist.github.com/ZakeerS/96087a621dac2200340f5aeae20fd005)
+
+### [Association Rules - Books Dataset](https://gist.github.com/ZakeerS/86a1c4131d39b3e177278abe91132371)
