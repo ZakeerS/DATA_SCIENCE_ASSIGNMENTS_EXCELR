@@ -33,3 +33,5 @@
 ### [Text Mining Sentiment Analysis on Elon Musk Tweets](https://gist.github.com/ZakeerS/389046f9bd9ad638a1b51f04a13b7301)
 
 ### [Text Mining Sentiment Analysis and Web Scraping of Amazon Reviews](https://gist.github.com/ZakeerS/3ffaec1f6fad67d0c243360556440f6f)
+
+### [Naive Bayes](https://gist.github.com/ZakeerS/3986098b91e2f5e60f7f338c9deba896)
