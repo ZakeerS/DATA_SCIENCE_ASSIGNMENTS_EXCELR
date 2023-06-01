@@ -13,3 +13,5 @@
 ### [Simple Linear Regression - Salary Hike Dataset](https://gist.github.com/ZakeerS/bc791ede20125d73e0c98a83c575e393)
 
 ### [Multiple Linear Regression - Startup Dataset](https://gist.github.com/ZakeerS/dde07ca8b7e624513ea2e6c01c3a3b6b)
+
+### [Multiple Linear Regression - Toyota Corolla Dataset](https://gist.github.com/ZakeerS/e4f95bd6abdc32f2bd0a8c561a07344a)
