@@ -31,3 +31,5 @@
 ### [Recommendation System - Books Dataset](https://gist.github.com/ZakeerS/667744afd06439145be30c7a0c544e3d)
 
 ### [Text Mining Sentiment Analysis on Elon Musk Tweets](https://gist.github.com/ZakeerS/389046f9bd9ad638a1b51f04a13b7301)
+
+### [Text Mining Sentiment Analysis and Web Scraping of Amazon Reviews](https://gist.github.com/ZakeerS/3ffaec1f6fad67d0c243360556440f6f)
