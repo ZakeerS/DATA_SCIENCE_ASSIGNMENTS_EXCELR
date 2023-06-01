@@ -27,3 +27,5 @@
 ### [Association Rules - Books Dataset](https://gist.github.com/ZakeerS/86a1c4131d39b3e177278abe91132371)
 
 ### [Association Rules - Movies Dataset](https://gist.github.com/ZakeerS/4a5a2e516e5a133b3eb7ce1c6346ce93)
+
+### [Recommendation System - Books Dataset](https://gist.github.com/ZakeerS/667744afd06439145be30c7a0c544e3d)
