@@ -9,3 +9,5 @@
 ### [Hypothesis Testing](https://gist.github.com/ZakeerS/6916721268ae62deaaf3349c57389ff3)
 
 ### [Simple Linear Regression - Delivery Time Dataset](https://gist.github.com/ZakeerS/c0f9ead17096c5dcf5473413ae8a8720)
+
+### [Simple Linear Regression - Salary Hike Dataset](https://gist.github.com/ZakeerS/bc791ede20125d73e0c98a83c575e393)
