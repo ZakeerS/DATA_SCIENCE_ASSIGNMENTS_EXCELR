@@ -53,3 +53,7 @@
 ### [Support Vector Machine - Forest Fires Dataset](https://gist.github.com/ZakeerS/405ae92848fcf3b1bb6ec0f6d8685f9b)
 
 ### [Support Vector Machine - Salary Dataset](https://gist.github.com/ZakeerS/fc7ec3493d94c381a2c745b61a8cd692)
+
+### [Forecasting - Airline Dataset](https://gist.github.com/ZakeerS/76a9d0cccf8529ce5d3f612d446aad64)
+
+### [Forecasting - Cocacola Dataset](https://gist.github.com/ZakeerS/9929467044e7cb73e3ef0caab1a86613)
