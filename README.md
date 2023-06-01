@@ -21,3 +21,5 @@
 ### [Clustering - Crime Dataset](https://gist.github.com/ZakeerS/89e06ff020752fc01180e148142dd548)
 
 ### [Clustering - Airlines Dataset](https://gist.github.com/ZakeerS/d01b0d68dc26d757f33fcddd3efb4b11)
+
+### [PCA - Wine Dataset](https://gist.github.com/ZakeerS/96087a621dac2200340f5aeae20fd005)
