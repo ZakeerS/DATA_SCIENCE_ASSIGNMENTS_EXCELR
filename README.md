@@ -1,3 +1,5 @@
 # DATA_SCIENCE_ASSIGNMENTS_EXCELR
 
 ## EXCELR_ASSIGNMENTS
+
+### [BASIC_STATS_1](https://gist.github.com/ZakeerS/debc1adf49d27ac60b4b7e8b3078f752)
