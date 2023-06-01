@@ -34,12 +34,13 @@
 
 ### [Text Mining Sentiment Analysis and Web Scraping of Amazon Reviews](https://gist.github.com/ZakeerS/3ffaec1f6fad67d0c243360556440f6f)
 
-### [KNN Zoo dataset](https://gist.github.com/ZakeerS/3533e73d43752e4dfb2269728477894b)
-
-
-
-
-
-
-
 ### [Naive Bayes](https://gist.github.com/ZakeerS/3986098b91e2f5e60f7f338c9deba896)
+
+### [KNN Zoo - Dataset](https://gist.github.com/ZakeerS/3533e73d43752e4dfb2269728477894b)
+
+### [KNN Glass - Dataset](https://gist.github.com/ZakeerS/e12143d42e869fdb9162bf96a8e58d07)
+
+### [Decision Trees - Company Dataset](https://gist.github.com/ZakeerS/6af0603b8a362d7b73073adf2ad98501)
+
+### [Decision Trees - Fraud Dataset](https://gist.github.com/ZakeerS/653f7ab6631c91df5d9bde607a9eb827)
+
