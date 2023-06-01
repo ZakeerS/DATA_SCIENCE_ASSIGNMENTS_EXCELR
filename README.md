@@ -25,3 +25,5 @@
 ### [PCA - Wine Dataset](https://gist.github.com/ZakeerS/96087a621dac2200340f5aeae20fd005)
 
 ### [Association Rules - Books Dataset](https://gist.github.com/ZakeerS/86a1c4131d39b3e177278abe91132371)
+
+### [Association Rules - Movies Dataset](https://gist.github.com/ZakeerS/4a5a2e516e5a133b3eb7ce1c6346ce93)
